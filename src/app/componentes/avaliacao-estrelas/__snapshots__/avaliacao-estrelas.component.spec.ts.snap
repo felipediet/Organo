@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AvaliacaoEstrelasComponent deveria renderizar o conteúdo baseado na propriedade classificacao 1`] = `
+AvaliacaoEstrelasComponent {
+  "__ngContext__": 4,
+  "classificacao": 3,
+  "estrelas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+  ],
+  "onChange": [Function],
+  "onTouched": [Function],
+  "readOnly": false,
+}
+`;
+
+exports[`AvaliacaoEstrelasComponent deveria renderizar o conteúdo baseado na propriedade estrelas 1`] = `
+AvaliacaoEstrelasComponent {
+  "__ngContext__": 8,
+  "classificacao": 1,
+  "estrelas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+  ],
+  "onChange": [Function],
+  "onTouched": [Function],
+  "readOnly": false,
+}
+`;
+
+exports[`AvaliacaoEstrelasComponent deveria renderizar o conteúdo baseado na propriedade readOnly 1`] = `
+AvaliacaoEstrelasComponent {
+  "__ngContext__": 6,
+  "classificacao": 1,
+  "estrelas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+  ],
+  "onChange": [Function],
+  "onTouched": [Function],
+  "readOnly": true,
+}
+`;
