@@ -8,8 +8,6 @@ https://cursos.alura.com.br/course/angular-implemente-testes-unidade-jest
 
 O Organo é um aplicativo organizador de leituras que permite cadastrar livros, incluindo informações como título, autoria, imagem, gênero, data da leitura e classificação.
 
-Projeto em Angular com testes em JEST
-
 ## 🔨 Funcionalidades do projeto
 
 `Cadastro de livros`: Permite adicionar novos livros à lista, inserindo informações como título, autoria, imagem, gênero, data da leitura e classificação.
