@@ -37,11 +37,11 @@ npm install
 ```
 Depois, para executar o projeto em modo desenvolvimento:
 ```bash
-ng serve
+npm run ng serve
 ```
 Então, acesse [http://localhost:4200/](url) no seu navegador.
 
 Para rodar os testes:
 ```bash
-ng test
+npm run ng test
 ```
