@@ -1,4 +1,8 @@
-|![Thumbnail](./thumb.png)
+![Thumbnail](./thumb.png)
+
+# URL ALURA
+
+https://cursos.alura.com.br/course/angular-implemente-testes-unidade-jest
 
 # Organo
 
